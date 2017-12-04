@@ -24,6 +24,12 @@
             <version>4.10</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.googlecode.princeton-java-introduction/stdlib -->
+        <dependency>
+            <groupId>com.googlecode.princeton-java-introduction</groupId>
+            <artifactId>stdlib</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
