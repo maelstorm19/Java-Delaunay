@@ -25,7 +25,7 @@ import java.util.regex.Pattern;
 public class TestDriver {
 
     /** Do you really need to save image? */
-    private static final boolean SAVE_FILE = false;
+    private static final boolean SAVE_FILE = true;
 
     /** The side of the square in which the graph will be fitted. */
     private static final int GRAPH_BOUNDS = 2048;
